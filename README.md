@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: shivsss9000@gmail.com
 - ⚡ Fun fact: I love to listen music for half an hour everyday !!!
 
-<img align = "left" alt="Shiv Shakti's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shivshaktisahoo&show_icons=true&theme=merko">
+<img align = "left" alt="Shiv Shakti's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shivshaktisahoo&show_icons=true&theme=merko&hide_border=true"/>
