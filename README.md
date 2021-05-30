@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning HTML, CSS
-- 🤔 I’m looking for help with diiferent documentation on pandas
+- 🤔 I’m looking for help with different documentation on pandas
 - 💬 Ask me about my Repositories
 - 📫 How to reach me: shivsss9000@gmail.com
 - ⚡ Fun fact: I love to listen music for half an hour everyday !!!
