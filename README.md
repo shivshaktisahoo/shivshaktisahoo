@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 <!--
 - 🔭 I’m currently working on ...
 -->
-<img align = "right" alt="hai" src="https://github.com/shivshaktisahoo/shivshaktisahoo/blob/main/1_IRGHmiGsa16stedQvIaZfw.gif">
+<img align = "right" alt="hai" src="https://github.com/shivshaktisahoo/shivshaktisahoo/blob/main/1_IRGHmiGsa16stedQvIaZfw.gif" width = "50" height = "50">
 - 🌱 I’m currently learning Python
 - 🤔 I’m looking for help with different documentation on pandas
 - 💬 Ask me about my Repositories
