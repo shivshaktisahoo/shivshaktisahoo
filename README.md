@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 📫 <b>How to reach me: shivsss9000@gmail.com</b>
 - ⚡ <b>Fun fact: I love to listen music for half an hour everyday !!!</b>
 
-![](https://visitor-badge.glitch.me/badge?page_id=shivshaktisahoo)
+
 
 ### 🛠 &nbsp;Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;<br/>
@@ -32,4 +32,10 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivshaktisahoo&layout=compact&theme=radical)](https://github.com/shivshaktisahoo/github-readme-stats)                                    
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivshaktisahoo&theme=radical" alt="arunsridher" /></p>                               
                                  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shivshaktisahoo&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shivshaktisahoo&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true) 
+
+<div align="right">
+  
+![Visitor](https://visitor-badge.glitch.me/badge?page_id=shivshaktisahoo) ![ViewCount](https://views.whatilearened.today/views/github/shivshaktisahoo/shivshaktisahoo.svg) [![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg)](https://github.com/shivshaktisahoo/)
+  
+<div/>
