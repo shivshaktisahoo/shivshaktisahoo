@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivshaktisahoo&theme=radical" alt="arunsridher" /></p>                               
                                  
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shivshaktisahoo&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true) 
-
+<hr>
 <div align="right">
   
 ![Visitor](https://visitor-badge.glitch.me/badge?page_id=shivshaktisahoo) ![ViewCount](https://views.whatilearened.today/views/github/shivshaktisahoo/shivshaktisahoo.svg) [![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg)](https://github.com/shivshaktisahoo/)
