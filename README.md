@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 <!--
 - 🔭 I’m currently working on ...
 -->
-
+<img align = "right" alt="hai" src="https://github.com/shivshaktisahoo/shivshaktisahoo/blob/main/1_IRGHmiGsa16stedQvIaZfw.gif">
 - 🌱 I’m currently learning Python
 - 🤔 I’m looking for help with different documentation on pandas
 - 💬 Ask me about my Repositories
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <img align = "center" alt="Shiv Shakti Master in Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivshaktisahoo&layout=compact&show_icons=true&theme=radical&hide_border=true" >
 
-                                       
+                                     
                                        
                                  
 
