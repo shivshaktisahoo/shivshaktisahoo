@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 📫 <b>How to reach me: shivsss9000@gmail.com</b>
 - ⚡ <b>Fun fact: I love to listen music for half an hour everyday !!!</b>
 
-
+<!-- ///////////////////// START: TECH View //////////////////////////// -->
 
 ### 🛠 &nbsp;Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;<br/>
@@ -26,6 +26,9 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;<br/>
 
+<!-- ////////////////////////// END: TECH View  //////////////////////////-->
+
+<!-- ////////////////////////// START: Stats View /////////////////////// -->
 ## &#x1f4c8; GitHub Stats
 
 [!["Shiv Shakti's Github Stats](https://github-readme-stats.vercel.app/api?username=shivshaktisahoo&hide_border=true&hide_title=false&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite)](https://github.com/shivshaktisahoo/github-readme-stats)
@@ -42,9 +45,13 @@ Here are some ideas to get you started:
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivshaktisahoo&theme=radical" alt="shivshaktisahoo" /></p>                               
                                  
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shivshaktisahoo&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true) 
+<!-- ////////////////////////// END: Stats View /////////////////////// -->
+
 <hr>
 <div align="right">
   
 ![visitor](https://visitor-badge.glitch.me/badge?page_id=shivshaktisahoo) ![profile count](https://komarev.com/ghpvc/?username=shivshaktisahoo&color=red) ![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg)
   
 </div>
+
+
