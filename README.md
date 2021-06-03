@@ -27,16 +27,23 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;<br/>
 
 ## &#x1f4c8; GitHub Stats
-[!["Shiv Shakti's Github Stats](https://github-readme-stats.vercel.app/api?username=shivshaktisahoo&show_icons=true&theme=merko)](https://github.com/shivshaktisahoo/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivshaktisahoo&layout=compact&theme=radical)](https://github.com/shivshaktisahoo/github-readme-stats)                                    
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivshaktisahoo&theme=radical" alt="arunsridher" /></p>                               
+[!["Shiv Shakti's Github Stats](https://github-readme-stats.vercel.app/api?username=shivshaktisahoo&hide_border=true&hide_title=false&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite)](https://github.com/shivshaktisahoo/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivshaktisahoo&hide=html&hide_title=false&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github.com/shivshaktisahoo/github-readme-stats)
+
+<!--
+[!["Shiv Shakti's Github Stats](https://github-readme-stats.vercel.app/api?username=shivshaktisahoo&show_icons=true&theme=mereko)](https://github.com/shivshaktisahoo/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivshaktisahoo&layout=compact&theme=radical)](https://github.com/shivshaktisahoo/github-readme-stats)
+-->
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivshaktisahoo&theme=radical" alt="shivshaktisahoo" /></p>                               
                                  
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shivshaktisahoo&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true) 
 <hr>
 <div align="right">
   
-![Visitor](https://visitor-badge.glitch.me/badge?page_id=shivshaktisahoo) ![profile count](https://komarev.com/ghpvc/?username=shivshaktisahoo&color=red)&nbsp; 
-[![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg)](https://github.com/shivshaktisahoo/)
+![Visitor](https://visitor-badge.glitch.me/badge?page_id=shivshaktisahoo) ![profile count](https://komarev.com/ghpvc/?username=shivshaktisahoo&color=red)&nbsp;[![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg)](https://github.com/shivshaktisahoo/)
   
 <div/>
