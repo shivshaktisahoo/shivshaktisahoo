@@ -1,5 +1,5 @@
 ### 𝙃𝙤𝙡𝙖, 𝙄'𝙢 𝙎𝙝𝙞𝙫 𝙎𝙝𝙖𝙠𝙩𝙞 ! 👋
-
+<img align = "right" alt="hai" src="https://github.com/shivshaktisahoo/shivshaktisahoo/blob/main/1_IRGHmiGsa16stedQvIaZfw.gif" width = "300" height = "200">
 <!--
 **shivshaktisahoo/shivshaktisahoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 <!--
 - 🔭 I’m currently working on ...
 -->
-<img align = "right" alt="hai" src="https://github.com/shivshaktisahoo/shivshaktisahoo/blob/main/1_IRGHmiGsa16stedQvIaZfw.gif" width = "50" height = "50">
+
 - 🌱 I’m currently learning Python
 - 🤔 I’m looking for help with different documentation on pandas
 - 💬 Ask me about my Repositories
