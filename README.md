@@ -44,6 +44,6 @@ Here are some ideas to get you started:
 <hr>
 <div align="right">
   
-![Visitor](https://visitor-badge.glitch.me/badge?page_id=shivshaktisahoo) ![profile count](https://komarev.com/ghpvc/?username=shivshaktisahoo&color=red)&nbsp;[![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg)](https://github.com/shivshaktisahoo/)
-  
+![Visitor](https://visitor-badge.glitch.me/badge?page_id=shivshaktisahoo) ![profile count](https://komarev.com/ghpvc/?username=shivshaktisahoo&color=red) ![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg)
+
 <div/>
