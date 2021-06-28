@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 -->
 
-- 🌱 <b>I’m currently learning Machine Learning </b>
+- 🌱 <b>I’m currently learning Machine Learning and Django </b>
 - 🤔 <b> I’m looking for help with different documentation or datasets on classification based</b>
 - 💬 <b>Ask me about my Repositories</b>
 - 📫 <b>How to reach me: shivsss9000@gmail.com</b>
