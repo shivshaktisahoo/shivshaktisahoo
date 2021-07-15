@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 🤔 <b> I’m looking for help with different documentation or datasets on classification based</b>
 - 💬 <b>Ask me about my Repositories</b>
 - 📫 <b>How to reach me: shivsss9000@gmail.com</b>
-- ⚡ <b>Fun fact: The wood frog can hold its pee for up to eight months.</b>
+- ⚡ <b>Fun fact: Ant's take rest for around 8 Minutes in 12 hour period.</b>
 
 <!-- ///////////////////// START: TECH View //////////////////////////// -->
 
