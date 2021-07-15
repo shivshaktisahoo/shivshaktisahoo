@@ -9,11 +9,11 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 -->
 
-- 🌱 <b>I’m currently learning Machine Learning and Django </b>
-- 🤔 <b> I’m looking for help with different documentation or datasets on classification based</b>
-- 💬 <b>Ask me about my Repositories</b>
+- 🌱 I’m currently learning **Machine Learning and Django** 
+- 🤔  I’m looking for help with different documentation or datasets on **classification based**
+- 💬 Ask me about my **Repositories**
 - 📫 <b>How to reach me: shivsss9000@gmail.com</b>
-- ⚡ <b>Fun fact: Ant's take rest for around 8 Minutes in 12 hour period.</b>
+- ⚡ **Fun fact:** Ant's take rest for around 8 Minutes in 12 hour period.
 
 <!-- ///////////////////// START: TECH View //////////////////////////// -->
 
