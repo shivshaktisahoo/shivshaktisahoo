@@ -9,10 +9,9 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 -->
 
-- 🌱 I’m currently learning **Angular and Django** 
+- 🌱 I’m currently learning **Django** 
 - 🤔  I’m looking for help with different documentation or datasets on **classification based**
 - 💬 Ask me about my **Repositories**
-- 📫 <b>How to reach me: shivsss9000@gmail.com</b>
 - ⚡ **Fun fact:** Ant's take rest for around 8 Minutes in 12 hour period.
 
 <!-- ///////////////////// START: TECH View //////////////////////////// -->
