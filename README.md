@@ -1,4 +1,4 @@
-# 𝙃𝙤𝙡𝙖, 𝙄'𝙢 𝙎𝙝𝙞𝙫 𝙎𝙝𝙖𝙠𝙩𝙞 !  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+# 𝙃𝙤𝙡𝙖, 𝙄'𝙢 𝙎𝙝𝙞𝙫 𝙎𝙝𝙖𝙠𝙩𝙞 !  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px">
 <img align = "right" alt="hai" src="https://github.com/shivshaktisahoo/shivshaktisahoo/blob/main/1_IRGHmiGsa16stedQvIaZfw.gif" width = "300" height = "200">
 <!--
 **shivshaktisahoo/shivshaktisahoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
